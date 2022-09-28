@@ -1,0 +1,738 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-MCM6495');</script>
+  <!-- End Google Tag Manager -->
+    <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/28c45441715ecf968e03845c6/c9bf28d98f45b57ca706fc2c5.js");</script>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <title>Fabien Galet: SEO & CRO Specialist, Web Experience</title>
+<link rel="canonical" href="https://fabiengalet.com" />
+    <meta name="description" content="I love: Craft Beers, Data & Insights, Behavioral Economics and, SEO & CRO. I occasionally write articles which focus around Web Experience, SEO & CRO and my passion for Brewing Beers and Fishing.">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="https://fabiengalet.com/blog/wp-content/uploads/2020/10/cropped-favicon-32x32-1.png">
+<meta name="google-site-verification" content="A3UP0XFjj5ZZT2n65_Gsmyy4kxZT470qQD8yDdzVp7o" />
+    <!-- CSS Style -->
+    <link rel="stylesheet" type="text/css" href="assets/css/vendor/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/plugins/themify-icons.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/plugins/feature.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/vendor/slick.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/vendor/slick-theme.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/vendor/lightbox.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/vendor/fontawesome.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css?v1.4">
+</head>
+
+<body class="position-relative spybody" data-spy="scroll" data-target=".navbar-example2" data-offset="150">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MCM6495"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+  <!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/60a1b25d185beb22b30dc64b/1f5rq1fc4';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+    <div class="active-dark bg_color--9">
+
+        <!-- Header Area Start -->
+        <header class="header-area header-style-two header--fixed header--sticky color-black">
+            <div class="header-wrapper">
+                <div class="header-left d-flex align-items-center">
+                    <div class="logo"><a href="/"><img src="assets/images/logo/logo-no-text-@x2.png" alt="Digital Agency"></a></div>
+                    <nav class="mainmenunav d-none d-lg-block ml--50 navbar-example2">
+                        <ul class="mainmenu nav nav-pills">
+                            <li class="nav-item"><a class="nav-link smoth-animation active" href="#home">Home</a></li>
+                            <li class="nav-item"><a class="nav-link smoth-animation" href="#about">About</a></li>
+                            <li class="nav-item"><a class="nav-link smoth-animation" href="#service">Services</a></li>
+                            <li class="nav-item"><a class="nav-link smoth-animation" href="/blog">Blog</a></li>
+                        </ul>
+                    </nav>
+                </div>
+                <div class="header-right">
+                  <div class="social-share-inner d-none d-sm-block">
+                      <ul class="social-share social-style--2 color-black d-flex justify-content-start liststyle">
+                          <li>
+                              <a href="https://www.linkedin.com/in/fabiengalet/">
+                                  <i data-feather="linkedin"></i>
+                              </a>
+                          </li>
+                          <li>
+                              <a href="https://twitter.com/fabien_galet">
+                                  <i data-feather="twitter"></i>
+                              </a>
+                          </li>
+                          <li>
+                              <a href="https://www.instagram.com/fabien_galet_seo/">
+                                  <i data-feather="instagram"></i>
+                              </a>
+                          </li>
+                      </ul>
+                  </div>
+                    <div class="header-btn">
+                        <a class="btn-default" href="#contact">
+                            <span>Contact Me <i class="fa fa-paper-plane"></i></span>
+                        </a>
+                    </div>
+                    <div class="humberger-menu d-block d-lg-none pl--20 pl_sm--10">
+                        <span class="menutrigger text-white">
+                            <i data-feather="menu"></i>
+                        </span>
+                    </div>
+                    <div class="close-menu d-block d-lg-none"><span class="closeTrigger">
+                            <i data-feather="x"></i></span>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- Header Area End -->
+
+        <!-- Start Popup Menu Area  -->
+        <div class="rn-popup-mobile-menu one-page-popup-menu">
+            <div class="inner">
+                <div class="popup-menu-top">
+                    <div class="logo">
+                        <a href="/"><img src="assets/images/logo/logo-no-text-@x2.png" alt="Fabien Galet"></a>
+                    </div>
+                    <div class="close-menu d-block d-lg-none">
+                        <span class="closeTrigger">
+                            <i data-feather="x"></i>
+                        </span>
+                    </div>
+                </div>
+                <div class="navbar-example2">
+                    <ul class="mainmenu nav nav-pills">
+                        <li class="nav-item"><a class="nav-link smoth-animation active" href="#home">Home</a></li>
+                        <li class="nav-item"><a class="nav-link smoth-animation" href="#about">About</a></li>
+                        <li class="nav-item"><a class="nav-link smoth-animation" href="#service">Service</a></li>
+                        <li class="nav-item"><a class="nav-link smoth-animation" href="#portfolio">Portfolio</a>
+                        </li>
+                        <li class="nav-item"><a class="nav-link smoth-animation" href="#blog">Blog</a></li>
+                        <li class="nav-item"><a class="nav-link smoth-animation" href="#contact">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- End Popup Menu Area  -->
+
+        <!-- slider Area Start -->
+        <div id="home">
+            <div class="slider-wrapper">
+                <div class="slide personal-portfolio-slider slider-paralax slider-style-3 d-flex align-items-center justify-content-center bg_image bg_image--25">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="inner text-md-left text-center">
+                                    <h1 class="title">I’m Fabien Galet <br>
+                                        <span>SEO & CRO Specialist.</span>
+                                    </h1>
+                                    <h2>based in Sydney.</h2>
+                                    <div class="slide-btn mt--30">
+                                        <a class="btn-default btn-border btn-opacity" href="#service">Discover what I can offer</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- slider Area End -->
+
+        <!-- About Section Start -->
+        <div id="about">
+            <div class="about-area ptb--120  bg_color--8">
+                <div class="about-wrapper">
+                    <div class="container">
+                        <div class="row row--35">
+                            <div class="col-lg-5">
+                                <div class="thumbnail"><img class="w-100" src="assets/images/about/about-8.jpg?v1.3" alt="About Images"></div>
+                            </div>
+                            <div class="col-lg-7">
+                                <div class="about-inner inner">
+                                    <div class="section-title"><span class="subtitle">More details</span>
+                                        <h2 class="title mb--20">About Me</h2>
+                                        <p class="description mt_dec--20">Digital Marketing professional with over 10 years of working experience in digital industry. Strong knowledge of SEO, CRO and analytics.</p>
+                                    </div>
+                                    <div class="tabs-area mt--40">
+                                        <div class="tab-wrapper">
+                                            <ul class="tab-style--1 nav nav-tabs" role="tablist">
+                                                <li class="nav-item">
+                                                    <a class="active" id="mainskill" data-toggle="tab" href="#rn-mainskill" role="tab" aria-controls="mainskill" aria-selected="true">Main skills</a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a id="awards" data-toggle="tab" href="#rn-awards" role="tab" aria-controls="awards" aria-selected="false">Awards</a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a id="experience" data-toggle="tab" href="#rn-experience" role="tab" aria-controls="experience" aria-selected="false">Experience</a>
+                                                </li>
+                                            </ul>
+                                            <div class="tab-content">
+                                                <div class="tab-pane fade show active" id="rn-mainskill" role="tabpanel" aria-labelledby="mainskill">
+                                                    <div class="single-tab-content">
+                                                        <div class="rn-progress-bar progress-bar--1 mt_dec--10">
+                                                            <div class="single-progress">
+                                                                <h6 class="title">Search Engine Optimisation</h6>
+                                                                <div class="progress">
+                                                                    <div role="progressbar" class="progress-bar wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay=".3s" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width: 95%;"></div>
+                                                                </div><span class="label"></span>
+                                                            </div>
+                                                            <div class="single-progress">
+                                                                <h6 class="title">Conversion Rate Optimisation</h6>
+                                                                <div class="progress">
+                                                                    <div role="progressbar" class="progress-bar wow fadeInLeft" data-wow-duration="0.6s" data-wow-delay=".4s" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 85%;"></div>
+                                                                </div><span class="label"></span>
+                                                            </div>
+                                                            <div class="single-progress">
+                                                                <h6 class="title">User Experience</h6>
+                                                                <div class="progress">
+                                                                    <div role="progressbar" class="progress-bar wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay=".5s" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 80%;"></div>
+                                                                </div><span class="label"></span>
+                                                            </div>
+                                                            <div class="single-progress">
+                                                                <h6 class="title">Data & Analytics</h6>
+                                                                <div class="progress">
+                                                                    <div role="progressbar" class="progress-bar wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay=".6s" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 90%;"></div>
+                                                                </div><span class="label"></span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="tab-pane fade" id="rn-awards" role="tabpanel" aria-labelledby="awards">
+                                                    <div class="single-tab-content">
+                                                        <ul>
+                                                            <li><a href="#">Semrush - Best Integrated Campaign
+                                                                    <span>- Nominated</span></a>2018</li>
+                                                            <li><a href="#">Semrush -  Best Advertising Campaign
+                                                                    <span>- Nominated</span></a>2018</li>
+                                                            <li><a href="#">MEC - Pride of Product Award
+                                                                    <span>- Winner</span></a>2017
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+
+                                                <div class="tab-pane fade" id="rn-experience" role="tabpanel" aria-labelledby="experience">
+                                                    <div class="single-tab-content">
+                                                        <ul>
+                                                            <li><a href="#">Senior SEO & CRO Manager<span> - MindArc</span></a> 2021 - Current</li>
+                                                            <li><a href="#">Senior SEO Manager<span> - Croud</span></a> 2020 - 2021</li>
+                                                            <li><a href="#">Senior SEO & CRO Manager<span> - Salmat</span></a> 2018 - 2020</li>
+                                                            <li><a href="#">Senior SEO Specialist<span> - Oneflare</span></a> 2017 - 2018</li>
+                                                            <li><a href="#">SEO & CRO Manager<span> - Wavemaker</span></a> 2016 - 2017</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- About Section End -->
+
+        <!-- Start services area -->
+        <div id="service">
+            <div class="service-area creative-service-wrapper pb--120 bg_color--8">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="section-title text-center mb--30 mb_sm--0">
+                                <span class="subtitle">What I can do for you</span>
+                                <h2 class="title">Take a look at my services</h2>
+                                <p class="description">I help businesses to achieve their digital marketing goals.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row creative-service">
+                        <div class="col-lg-12">
+                            <div class="row service-main-wrapper">
+                                <div class="col-lg-4 col-md-6 col-sm-6 col-12 text-left">
+
+                                        <div class="service service__style--2 text-left bg-gray">
+                                            <div class="icon">
+                                                <i data-feather="cast"></i>
+                                            </div>
+                                            <div class="content">
+                                                <h3 class="title">Search Engine Optimisation</h3>
+                                                <p>I aim to increase your businesses organic search visibility, ROI and efficiency by creating meaningful and actionable SEO strategy. It includes deliverables such as Keyword and Audience Research, Metadata recommendation, Page Speed Optimisation, Content structure & creation, Information Architecture, Competitive Research & Analysis, Link building activity, Technical SEO Audit, SEO Reporting.</p><a class="btn-default btn-border btn-opacity" href="/blog/category/seo-search-engine-optimisation/">Learn more about SEO</a>
+                                            </div>
+                                        </div>
+
+                                </div>
+                                <div class="col-lg-4 col-md-6 col-sm-6 col-12 text-left">
+
+                                        <div class="service service__style--2 text-left bg-gray">
+                                            <div class="icon">
+                                                <i data-feather="layers"></i>
+                                            </div>
+                                            <div class="content">
+                                                <h3 class="title">Conversion Rate Optimisation</h3>
+                                                <p>CRO involves scientific approach and data-led observation, using quantitative and qualitative research, to create hypotheses which helps creating a series of A/B and multivariate testing. I build CRO programs based on your audience that are repeatable, and continually evolve to help you achieve the best results. </p><a class="btn-default btn-border btn-opacity" href="/blog/category/cro-conversion-rate-optimisation/">Learn more about CRO</a>
+                                            </div>
+                                        </div>
+
+                                </div>
+                                <div class="col-lg-4 col-md-6 col-sm-6 col-12 text-left">
+
+                                        <div class="service service__style--2 text-left bg-gray">
+                                            <div class="icon">
+                                                <i data-feather="activity"></i>
+                                            </div>
+                                            <div class="content">
+                                                <h3 class="title">Data & Analytics</h3>
+                                                <p>A lot of businesses, even at an enterprise level, make important marketing decisions based on poor-quality data. I can fix your Google Analytics implementation to make sure your marketing actions are based on accurate data to drive growth. </p><a class="btn-default btn-border btn-opacity" href="/blog/category/analytics/">Learn Data & Analytics</a>
+                                            </div>
+                                        </div>
+
+                                </div>
+                                <div class="col-lg-4 col-md-6 col-sm-6 col-12 text-left">
+
+                                        <div class="service service__style--2 text-left bg-gray">
+                                            <div class="icon">
+                                                <i data-feather="monitor"></i>
+                                            </div>
+                                            <div class="content">
+                                                <h3 class="title">Paid Search</h3>
+                                                <p>Search engine advertising is one of the most popular forms of Pay-Per-Click (PPC) and is the quickest ways to grow traffic to your website and increase sales/leads. I will help you to bring more qualified visitors to your website and improve your ROI. </p><a class="btn-default btn-border btn-opacity" href="/blog/category/sem-search-engine-marketing/">Learn more about SEM</a>
+                                            </div>
+                                        </div>
+
+                                </div>
+                                <div class="col-lg-4 col-md-6 col-sm-6 col-12 text-left">
+
+                                        <div class="service service__style--2 text-left bg-gray">
+                                            <div class="icon">
+                                                <i data-feather="users"></i>
+                                            </div>
+                                            <div class="content">
+                                                <h3 class="title">User Experience</h3>
+                                                <p>UX Research is an essential first step in the Design process of a website. UX Design is a discipline that finds the best experience possible to your audience without adding any friction-points during the digital user journey. I will conduct a rigourous design validation process to your products ensuring we have the best outcome possible for your customers. </p><a class="btn-default btn-border btn-opacity" href="/blog/category/ux-user-experience/">Learn more about UX</a>
+                                            </div>
+                                        </div>
+
+                                </div>
+                                <div class="col-lg-4 col-md-6 col-sm-6 col-12 text-left">
+
+                                        <div class="service service__style--2 text-left bg-gray">
+                                            <div class="icon">
+                                                <i data-feather="code"></i>
+                                            </div>
+                                            <div class="content">
+                                                <h3 class="title">Shopify Web Developement</h3>
+                                                <p>I've helped many businesses get online through designing and creating websites. I can help you with the complete process of getting online including Website Design, Website Development and training with Shopify.</p>
+                                            </div>
+                                        </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End services area -->
+
+
+
+
+        <!-- Start Portfolio Area -->
+        <!--
+        <div id="portfolio">
+            <div class="portfolio-area pb--120 bg_color--8">
+                <div class="portfolio-sacousel-inner">
+                    <div class="container">
+
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="section-title text-center mb--30 mb_sm--0"><span class="subtitle">My
+                                        Complete project</span>
+                                    <h2 class="title">My Latest Project</h2>
+                                    <p class="description">There are many variations of passages of Lorem Ipsum
+                                        available, <br> but the majority have suffered alteration.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                                <div class="im_portfolio text-center mt--40">
+                                    <div class="thumbnail_inner">
+                                        <div class="thumbnail">
+                                            <a href="#">
+                                                <img src="assets/images/portfolio/portfolio-4.jpg?v1.3" alt="React Creative Agency">
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="content">
+                                        <div class="inner">
+                                            <div class="portfolio_heading">
+                                                <div class="category_list"><a href="#">Development</a>
+                                                </div>
+                                                <h4 class="title"><a href="#">Web Design</a></h4>
+                                            </div>
+                                            <div class="portfolio_hover">
+                                                <p>Lorem ipsum dolor sit amet, conse ctetur adipiscing elit.</p>
+                                            </div>
+                                        </div>
+                                    </div><a class="transparent_link" href="#"></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                                <div class="im_portfolio text-center mt--40">
+                                    <div class="thumbnail_inner">
+                                        <div class="thumbnail">
+                                            <a href="#"><img src="assets/images/portfolio/portfolio-5.jpg?v1.3" alt="React Creative Agency">
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="content">
+                                        <div class="inner">
+                                            <div class="portfolio_heading">
+                                                <div class="category_list">
+                                                    <a href="#">Product
+                                                        Design</a>
+                                                </div>
+                                                <h4 class="title"><a href="#">App Development</a>
+                                                </h4>
+                                            </div>
+                                            <div class="portfolio_hover">
+                                                <p>Lorem ipsum dolor sit amet, consec tetur adipiscing elit.</p>
+                                            </div>
+                                        </div>
+                                    </div><a class="transparent_link" href="#"></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                                <div class="im_portfolio text-center mt--40">
+                                    <div class="thumbnail_inner">
+                                        <div class="thumbnail">
+                                            <a href="#">
+                                                <img src="assets/images/portfolio/portfolio-6.jpg?v1.3" alt="React Creative Agency">
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="content">
+                                        <div class="inner">
+                                            <div class="portfolio_heading">
+                                                <div class="category_list"><a href="#">Application</a>
+                                                </div>
+                                                <h4 class="title"><a href="#">Photoshop Design</a>
+                                                </h4>
+                                            </div>
+                                            <div class="portfolio_hover">
+                                                <p>Lorem ipsum dolor sit amet, consec tetur adipiscing elit.</p>
+                                            </div>
+                                        </div>
+                                    </div><a class="transparent_link" href="#"></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                                <div class="im_portfolio text-center mt--40">
+                                    <div class="thumbnail_inner">
+                                        <div class="thumbnail"><a href="#"><img src="assets/images/portfolio/portfolio-7.jpg?v1.3" alt="React Creative Agency"></a></div>
+                                    </div>
+                                    <div class="content">
+                                        <div class="inner">
+                                            <div class="portfolio_heading">
+                                                <div class="category_list"><a href="#">Web
+                                                        Design</a>
+                                                </div>
+                                                <h4 class="title"><a href="#">Website Design</a>
+                                                </h4>
+                                            </div>
+                                            <div class="portfolio_hover">
+                                                <p>Lorem ipsum dolor sit amet, consec tetur adipiscing elit.</p>
+                                            </div>
+                                        </div>
+                                    </div><a class="transparent_link" href="#"></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                                <div class="im_portfolio text-center mt--40">
+                                    <div class="thumbnail_inner">
+                                        <div class="thumbnail"><a href="#"><img src="assets/images/portfolio/portfolio-8.jpg?v1.3" alt="React Creative Agency"></a></div>
+                                    </div>
+                                    <div class="content">
+                                        <div class="inner">
+                                            <div class="portfolio_heading">
+                                                <div class="category_list"><a href="#">Application</a>
+                                                </div>
+                                                <h4 class="title"><a href="#">Web Application</a>
+                                                </h4>
+                                            </div>
+                                            <div class="portfolio_hover">
+                                                <p>Lorem ipsum dolor sit amet, consec tetur adipiscing elit.</p>
+                                            </div>
+                                        </div>
+                                    </div><a class="transparent_link" href="#"></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                                <div class="im_portfolio text-center mt--40">
+                                    <div class="thumbnail_inner">
+                                        <div class="thumbnail"><a href="#"><img src="assets/images/portfolio/portfolio-9.jpg?v1.3" alt="React Creative Agency"></a></div>
+                                    </div>
+                                    <div class="content">
+                                        <div class="inner">
+                                            <div class="portfolio_heading">
+                                                <div class="category_list"><a href="#">Photoshop</a>
+                                                </div>
+                                                <h4 class="title"><a href="#">Photo Editing</a>
+                                                </h4>
+                                            </div>
+                                            <div class="portfolio_hover">
+                                                <p>Lorem ipsum dolor sit amet, consec tetur adipiscing elit.</p>
+                                            </div>
+                                        </div>
+                                    </div><a class="transparent_link" href="#"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="view-more-btn mt--60 mt_sm--30 text-center"><a class="btn-default" href="portfolio.html"><span>View Projects</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        -->
+        <!-- End Portfolio Area -->
+
+        <!-- Start Blog Area -->
+        <div id="blog">
+            <div class="rn-blog-area pb--120 bg_color--8 mb-dec--30">
+                <div class="container">
+                    <div class="row align-items-end">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                            <div class="section-title text-center"><span class="subtitle">My Latest Posts</span>
+                                <h2 class="title">Latest News</h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row mt--30 mt_sm--40">
+                        <div class="col-lg-4 col-md-6 col-12 mt--30">
+                            <div class="im_box">
+                                <div class="thumbnail"><a href="/blog/app-store-optimisation-aso-what-are-the-keys-to-rank-on-apple-and-google-stores/"><img class="w-100" src="assets/images/blog/aso-strategy.jpg?v1.3" alt="Blog Images"></a></div>
+                                <div class="content">
+                                    <div class="inner">
+                                        <div class="content_heading">
+                                            <div class="category_list"><a href="/blog/category/seo-search-engine-optimisation/">SEO</a>
+                                            </div>
+                                            <h4 class="title"><a href="/blog/app-store-optimisation-aso-what-are-the-keys-to-rank-on-apple-and-google-stores/">App Store Optimisation (ASO): What are the Keys to Rank on Apple and Google Stores</a></h4>
+                                        </div>
+                                        <div class="content_footer"><a class="rn-btn btn-opacity" href="/blog/app-store-optimisation-aso-what-are-the-keys-to-rank-on-apple-and-google-stores/">Read More</a></div>
+                                    </div><a class="transparent_link" href="/blog/app-store-optimisation-aso-what-are-the-keys-to-rank-on-apple-and-google-stores/"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-12 mt--30">
+                            <div class="im_box">
+                                <div class="thumbnail"><a href="/blog/category/cro-conversion-rate-optimisation/"><img class="w-100" src="assets/images/blog/cro-strategy.jpg?v1.3" alt="Blog Images"></a></div>
+                                <div class="content">
+                                    <div class="inner">
+                                        <div class="content_heading">
+                                            <div class="category_list"><a href="/blog/category/cro-conversion-rate-optimisation/">CRO</a>
+                                            </div>
+                                            <h4 class="title"><a href="/blog/6-benefits-of-conversion-rate-optimisation-cro-for-online-retailers/">6 Benefits of Conversion Rate Optimisation (CRO) for Online Retailers</a></h4>
+                                        </div>
+                                        <div class="content_footer"><a class="rn-btn btn-opacity" href="/blog/6-benefits-of-conversion-rate-optimisation-cro-for-online-retailers/">Read More</a></div>
+                                    </div><a class="transparent_link" href="/blog/category/cro-conversion-rate-optimisation/"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-12 mt--30">
+                            <div class="im_box">
+                                <div class="thumbnail"><a href="/blog/a-new-core-update-algorithm-update-implemented-by-google/"><img class="w-100" src="assets/images/blog/algo-update.jpg?v1.3" alt="Blog Images"></a></div>
+                                <div class="content">
+                                    <div class="inner">
+                                        <div class="content_heading">
+                                            <div class="category_list"><a href="/blog/category/seo-search-engine-optimisation/">SEO</a>
+                                            </div>
+                                            <h4 class="title"><a href="/blog/a-new-core-update-algorithm-update-implemented-by-google/">A New Core Update (Algorithm Update) implemented by Google</a></h4>
+                                        </div>
+                                        <div class="content_footer"><a class="rn-btn btn-opacity" href="/blog/a-new-core-update-algorithm-update-implemented-by-google/">Read More</a></div>
+                                    </div><a class="transparent_link" href="/blog/a-new-core-update-algorithm-update-implemented-by-google/"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Blog Area -->
+
+        <!-- Start Contact area -->
+        <div id="contact">
+            <div class="rn-contact-area pb--120 bg_color--8">
+                <div class="contact-form--1">
+                    <div class="container">
+                        <div class="row row--35 align-items-start">
+                            <div class="col-lg-6 order-2 order-lg-1">
+                                <div class="section-title text-left mb--50"><span class="subtitle">Let's chat!</span>
+                                    <h2 class="title">Contact</h2>
+                                    <div class="im_address_inner">
+                                        <div class="im_address"><i class="fas fa-phone" style="color:#c6ccd8;"></i><a class="link im-hover" href="tel:+11105558698976">+61 (0)434 602 235</a></div>
+                                        <div class="im_address mt--5"><i class="fa fa-paper-plane" style="color:#c6ccd8;"></i><a class="link im-hover" href="mailto:hello@fabiengalet.com">hello@fabiengalet.com</a></div>
+                                    </div>
+                                </div>
+<div class="section-title text-left">
+                                <span class="subtitle">Or subscribe to my mailing list for</span> 🔥 <span class="subtitle">tips!</span>
+                                </div>
+                                <div class="form-wrapper">
+                                  <!-- Begin Mailchimp Signup Form -->
+  <div id="mc_embed_signup" class="form-wrapper">
+  <form action="https://fabiengalet.us1.list-manage.com/subscribe/post?u=28c45441715ecf968e03845c6&amp;id=0c429c2116" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+      <div id="mc_embed_signup_scroll">
+  <div class="mc-field-group">
+  	<input type="text" value="First Name" name="FNAME" class="" id="mce-FNAME">
+  </div>
+  <div class="mc-field-group">
+  	<input type="text" value="Last Name" name="LNAME" class="" id="mce-LNAME">
+  </div>
+  <div class="mc-field-group size1of2">
+  	<input type="text" name="MMERGE3" class="" value="Phone Number" id="mce-MMERGE3">
+  </div>
+  <div class="mc-field-group">
+  	<input type="email" value="Email Address" name="EMAIL" class="required email" id="mce-EMAIL">
+  </div>
+  	<div id="mce-responses" class="clear">
+  		<div class="response" id="mce-error-response" style="display:none"></div>
+  		<div class="response" id="mce-success-response" style="display:none"></div>
+  	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+      <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_28c45441715ecf968e03845c6_0c429c2116" tabindex="-1" value=""></div>
+      <div class="form-submit"><button name="submit" type="submit" id="submit" class="btn-default">Subscribe Now</button></div>
+      </div>
+  </form>
+  </div>
+
+  <!--End mc_embed_signup-->
+                                </div>
+                            </div>
+                            <div class="col-lg-6 order-1 order-lg-2">
+                                <div class="thumbnail mb_md--30 mb_sm--30"><img src="assets/images/about/about-13.jpg?v1.3" alt="Fabien Galet"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Contact area -->
+        <!-- Page Wrapper -->
+      <!--  <main class="page-wrapper">
+            <div class="rn-brand-area ptb--120 bg_color--8">
+              <div class="row">
+                  <div class="col-lg-12">
+                      <div class="section-title text-center mb--30 mb_sm--0">
+                          <span class="subtitle">Just a few brands</span>
+                          <h2 class="title">Who I've worked for.</h2>
+                      </div>
+                  </div>
+              </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <ul class="brand-style-2">
+                                <li><img src="assets/images/brand/brand-01.png" alt="Logo Images"></li>
+                                <li><img src="assets/images/brand/brand-02.png" alt="Logo Images"></li>
+                                <li><img src="assets/images/brand/brand-03.png" alt="Logo Images"></li>
+                                <li><img src="assets/images/brand/brand-05.png" alt="Logo Images"></li>
+                                <li><img src="assets/images/brand/brand-04.png" alt="Logo Images"></li>
+                                <li><img src="assets/images/brand/brand-08.png" alt="Logo Images"></li>
+                                <li><img src="assets/images/brand/brand-06.png" alt="Logo Images"></li>
+                                <li><img src="assets/images/brand/brand-09.png" alt="Logo Images"></li>
+                                <li><img src="assets/images/brand/brand-07.png" alt="Logo Images"></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>-->
+        <!-- Page Wrapper ENd -->
+
+
+
+
+        <div class="footer-style-2 ptb--30 bg_color--6">
+            <div class="wrapper plr--50 plr_sm--20">
+                <div class="row align-items-center justify-content-between">
+                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                        <div class="inner">
+                            <div class="logo text-center text-sm-left mb_sm--20"><a href="/"><img src="assets/images/logo/logo-fg-@x2.png" alt="Logo images"></a></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                                            <div class="inner text-center">
+                                                <ul class="social-share rn-lg-size d-flex justify-content-center liststyle">
+                                                    <li><a href="https://www.linkedin.com/in/fabiengalet/"><i class="fab fa-linkedin-in"></i></a></li>
+                                                    <li><a href="https://twitter.com/fabien_galet"><i class="fab fa-twitter"></i></a></li>
+                                                    <li><a href="https://www.instagram.com/fabien_galet_seo/"><i class="fab fa-instagram"></i></a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                    <div class="col-lg-4 col-md-12 col-sm-12 col-12">
+                        <div class="inner text-lg-right text-center mt_md--20 mt_sm--20">
+                            <div class="fs-6 text">
+                                <p class="mb-0">© 2022 fabiengalet.com - All rights reserved.</p>
+								<p><a class="text-white" href="https://fabiengalet.com/blog/privacy-policy/">Privacy Policy</a> | <a class="text-white" href="https://fabiengalet.com/blog/cookie-policy/">Cookie Policy</a> | <a class="text-white" href="https://fabiengalet.com/#contact">Contact</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- js
+======================================-->
+    <!-- modernizer JS -->
+    <script src="assets/js/vendor/modernizer.min.js"></script>
+    <!-- jquery JS -->
+    <script src="assets/js/vendor/jquery.js"></script>
+    <!-- Bootstrap JS -->
+    <script src="assets/js/vendor/bootstrap.min.js"></script>
+
+    <script src="assets/js/vendor/avoid-console.js"></script>
+    <script src="assets/js/vendor/waypoint.js"></script>
+    <script src="assets/js/vendor/wow.js"></script>
+    <script src="assets/js/vendor/feather.js"></script>
+    <script src="assets/js/vendor/slick.min.js"></script>
+    <script src="assets/js/vendor/counterup.js"></script>
+    <script src="assets/js/vendor/video.js"></script>
+    <script src="assets/js/vendor/masonry.js"></script>
+    <script src="assets/js/vendor/lightbox.js"></script>
+    <script src="assets/js/vendor/particles.js"></script>
+    <script src="assets/js/vendor/contactform.js"></script>
+
+    <!-- main JS -->
+    <script src="assets/js/main.js"></script>
+</body>
+
+</html>
